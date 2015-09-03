@@ -7,7 +7,6 @@ first
 second 
 	i will add log to file in production environment running
 
-
-
-author: zengzhihai110 my blog <a href="http://lizhi10000.com">lizhi10000.com</a>
+author: zengzhihai110 
+blog:   <a href="http://lizhi10000.com">lizhi10000.com</a>
 
