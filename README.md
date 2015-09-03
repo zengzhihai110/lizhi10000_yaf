@@ -1,12 +1,11 @@
 Abount lizhi10000_yaf
 
 
-first 
+first <br/>
 	i done add DB Operation class
 	
-second 
+second <br/>
 	i will add log to file in production environment running
 
-author: zengzhihai110 
-blog:   <a href="http://lizhi10000.com">lizhi10000.com</a>
+author: zengzhihai110 <br/>blog:   <a href="http://lizhi10000.com">lizhi10000.com</a>
 
