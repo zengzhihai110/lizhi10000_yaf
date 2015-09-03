@@ -9,5 +9,5 @@ second
 
 
 
-author: zengzhihai110 my blog lizhi10000.com
+author: zengzhihai110 my blog <a href="http://lizhi10000.com">lizhi10000.com</a>
 
