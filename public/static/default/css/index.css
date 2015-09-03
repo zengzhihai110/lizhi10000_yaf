@@ -1,0 +1,18 @@
+/*
+ * index.css
+ * Copyright (C) 2015 
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+body {
+	background: white;
+	color: black;
+}
+.errorInfo{color:red;margin:5px 0;}
+
+.content .content_nav{margin:15px 0;}
+.content_table{margin:15px 0;}
+
+.login_form{width:60%;margin:20px auto;padding:20px 40px;}
+
